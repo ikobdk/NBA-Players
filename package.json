@@ -1,0 +1,27 @@
+{
+  "name": "nba_players",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikobdk/NBA-Players.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikobdk/NBA-Players/issues"
+  },
+  "homepage": "https://github.com/ikobdk/NBA-Players#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "knex": "^0.12.6",
+    "pg": "^6.1.1"
+  }
+}

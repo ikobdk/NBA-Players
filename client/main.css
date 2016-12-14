@@ -1,0 +1,43 @@
+.loneButton{
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 10em;
+}
+.myflex1{
+  display: flex;
+  justify-content: center;
+}
+.myflex2{
+  display: flex;
+  justify-content: center;
+}
+.myflex3{
+  display: flex;
+  justify-content: center;
+}
+
+.button{
+  display:flex;
+  justify-content: center;
+  margin-top: 5em;
+}
+
+.singleplayer{
+  display: flex;
+  justify-content: center;
+  margin-top: 5em;
+  flex-direction: column;
+}
+
+#viewplayer{
+  padding-right: 1em;
+}
+#editplayer{
+  padding-left: 2em;
+}
+
+.delete{
+  display:flex;
+  justify-content: center;
+}
